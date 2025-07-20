@@ -13,7 +13,7 @@ CUDA_INSTALLED=false
 NVCC_PATH=""
 CUDA_PATH=""
 CUDA_VERSION=""
-DRIVER_VERSION=""
+DRIVER=""
 
 detect_environment() {
     IS_WSL=false
