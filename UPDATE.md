@@ -27,3 +27,4 @@ cd $HOME && rm -rf gensyn-testnet && git clone https://github.com/zunxbt/gensyn-
 
 ### 5. Detach from this screen session
 - Use `Ctrl + A` and then press `D` to detach from this screen session.
+all fine
